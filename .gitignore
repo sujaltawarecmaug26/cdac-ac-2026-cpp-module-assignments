@@ -1,0 +1,16 @@
+# Compiled C/C++ files
+*.exe
+*.o
+*.obj
+
+# Build folders
+Debug/
+Release/
+
+# Eclipse generated files
+.settings/
+.cproject
+.project
+
+# VS Code
+.vscode/
